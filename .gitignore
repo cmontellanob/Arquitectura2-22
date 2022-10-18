@@ -21,3 +21,13 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Tema3/SimpleResponsabilidad/nbproject/private/
+/Tema3/Coche/nbproject/private/
+/Tema3/SimpleResponsabilidad/build/
+/Tema3/AbiertoCerrado/nbproject/private/
+/Tema3/AbiertoCerrado/build/
+/Tema3/AbiertoCerrado/dist/
+/Tema3/JavaApplication8/nbproject/private/
+/Tema3/JavaApplication8/build/
+/Tema3/JavaApplication8/dist/
+/Tema4/Monopolio/nbproject/private/
